@@ -1,0 +1,19 @@
+# Large data files
+data/glove.6B/
+data/glove.6B.zip
+data/glove.6B.300d.txt
+data/elmo/elmo_weights.hdf5
+
+# Model checkpoints
+model/*.pt
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
